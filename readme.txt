@@ -316,7 +316,7 @@ I’d love to discuss this further in the interview and get your feedback on how
 - **Enhancing AI accuracy**: Improve query translation logic.
 - **User roles & permissions**: Restrict access based on user types.
 - **Performance optimization**: Optimize API response time.
-- **Database integration**: Connect to an actual database for real query execution.
+
 
 Looking forward to sharing more about this project and learning from your insights! 🔥
 
